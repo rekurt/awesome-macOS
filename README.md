@@ -310,6 +310,7 @@
 - [LaunchControl](http://www.soma-zone.com/LaunchControl/) - Create, manage and debug launchd services. ![Freeware][Freeware Icon]
 - [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/) ![Freeware][Freeware Icon]
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Protect your privacy.
+- [Mac Coffee](https://rekurt.github.io/Mac-Coffee/) - Native menu bar app that prevents idle sleep with timed sessions and a battery cutoff. [![Open-Source Software][OSS Icon]](https://github.com/rekurt/Mac-Coffee) ![Freeware][Freeware Icon]
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ![Freeware][Freeware Icon]
 - [MacPacker](https://macpacker.app) - Preview and extract archives. Native 7-Zip alternative. [![Open-Source Software][OSS Icon]](https://github.com/sarensw/MacPacker) ![Freeware][Freeware Icon]
